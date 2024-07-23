@@ -4,6 +4,7 @@ Android Fundamental Project in Dicoding Course
 ---------------------------------------------
 
 Hi everyone👋🏻
+
 This is my project when I participated in Bangkit Academy Batch 1 2024. In this project I tried to retrieve data from the Web API about GitHub User data, display the data in the form of a list, display detailed user data, implement a search feature, change themes, and create a favorite feature by implementing data storage locally. In this project I implemented the MVVM (Model-View-ViewModel) architecture to make the view completely independent from the application logic.
 
 ---------------------------------------------
