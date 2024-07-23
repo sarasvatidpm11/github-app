@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="user_name">Username</string>
+    <string name="search_username">Search Username</string>
+    <string name="searchbar_hint">Search User</string>
+    <string name="tab1">Followers</string>
+    <string name="tab2">Following</string>
+    <string name="user_not_found">User not found, please type the correct username</string>
+    <string name="favorite_users">Favorite Users</string>
+    <string name="favorite">Favorite</string>
+</resources>
